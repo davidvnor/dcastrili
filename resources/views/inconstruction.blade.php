@@ -12,7 +12,7 @@
 			$('#tipsy').tipsy({fade: true, gravity: 's'});
 		});
 		</script>
-		
+
 		<!--[if IE]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
@@ -20,7 +20,8 @@
 	</head>
 	<body>
 		<div class="wrapper">
-			<img src="images/logo.png" alt="YourLogo" title="YourLogo"/>
+			<!--<img src="images/logo.png" alt="YourLogo" title="YourLogo"/>-->
+			Hello, I am David :-)
 			<div class="hr"></div>
 			<h1>Coming Soon to a Browser Near You</h1>
 			<p>Unfortunately, we’re not quite ready yet. <strong> But, you can see our progress below:</strong></p>
