@@ -21,10 +21,10 @@
 	<body>
 		<div class="wrapper">
 			<!--<img src="images/logo.png" alt="YourLogo" title="YourLogo"/>-->
-			<h5 style="color:#000">Hello, I am David :-) </h5>
+			<h1>Hello, I am David :-) </h1>
 			<div class="hr"></div>
 			<h1>Coming Soon to a Browser Near You</h1>
-			<p>Unfortunately, we’re not quite ready yet. <strong> But, you can see our progress below:</strong></p>
+			<p>Unfortunately, I am not quite ready yet. <strong> But, you can see our progress below:</strong></p>
 						
 			<section class="progress">
 				<div class="progress-bar-container" id="tipsy" title="87% Complete"> <!-- Edit this title for the tooltip pop up -->
