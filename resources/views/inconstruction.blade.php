@@ -21,7 +21,7 @@
 	<body>
 		<div class="wrapper">
 			<!--<img src="images/logo.png" alt="YourLogo" title="YourLogo"/>-->
-			Hello, I am David :-)
+			<h5 style="color:#000">Hello, I am David :-) </h5>
 			<div class="hr"></div>
 			<h1>Coming Soon to a Browser Near You</h1>
 			<p>Unfortunately, we’re not quite ready yet. <strong> But, you can see our progress below:</strong></p>
